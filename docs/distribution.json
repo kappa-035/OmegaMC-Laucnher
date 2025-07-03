@@ -1017,15 +1017,15 @@
     },
     {
       "id": "WesterosCraft-Demo-1.12.2",
-      "name": "WesterosCraft-Demo (Minecraft 1.12.2)",
-      "description": "WesterosCraft-Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "name": "OmegaMC-Demo (Minecraft 1.12.2)",
+      "description": "OmegaMC-Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://omegamc.it/logo.png",
       "version": "2.1.6",
-      "address": "mc.westeroscraft.com:25565",
+      "address": "play.omegamc.it:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "WesterosCraft Demo",
-        "largeImageKey": "westeroscraft",
+        "shortId": "OmegaMC Demo",
+        "largeImageKey": "omegamc",
         "largeImageText": "Change me through Nebula"
       },
       "mainServer": false,

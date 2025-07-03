@@ -970,7 +970,7 @@ body, button {
 }
 
 #loginOptionsContent {
-    border-radius: 3px;
+    border-radius: 10px;
     position: relative;
     top: -5%;
 }
@@ -3755,6 +3755,7 @@ input:checked + .toggleSwitchSlider:before {
     border: 1px solid #fff;
     height: 50px;
     width: 50px;
+    border-radius: 10px 0px 0px 10px;
 }
 
 /* Content container for the server listing's details. */
